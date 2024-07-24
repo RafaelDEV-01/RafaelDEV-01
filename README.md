@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/RafaelDEV-01">
-  <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDEV-01&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDEV-01&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="left" alt="Java" height="120" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
