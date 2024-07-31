@@ -1,10 +1,6 @@
 ## Olá pessoal!
 
-Me chamo José Rafael, sou estudante de programação e atualmente estou cursando Sistemas de Informação de pela Faculdade Descomplica.
-
-Gosto de busca sempre aprimorar minhas habilidades e conhecimentos, participando de projetos práticos. Meu objetivo é contribuir de maneira significativa para projetos que façam a diferença e que me permitam crescer profissionalmente na área de tecnologia.
-
-Estou estudando programação na área de desenvolvimento backend, com as linguagens Java, Python e SQL.
+Me chamo José Rafael, sou estudante de programação e atualmente estou cursando Sistemas de Informação na Faculdade Descomplica. Gosto de buscar sempre aprimorar minhas habilidades e conhecimentos, participando de projetos práticos. Meu objetivo é contribuir de maneira significativa para projetos que façam a diferença e que me permitam crescer profissionalmente na área de tecnologia. Estou focado na área de desenvolvimento backend, trabalhando com as linguagens Java, SQL e Python.
 
 <div align="center">
   <a href="https://github.com/RafaelDEV-01">
